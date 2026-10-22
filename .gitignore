@@ -1,0 +1,5 @@
+.env*
+config.yaml
+auth/
+*.log
+*.db
